@@ -1,5 +1,3 @@
----
-
 # **Recipe Generator App**
 
 The **Recipe Generator App** is a Streamlit-based web application that allows users to generate quick and healthy recipes based on the ingredients they have. Users can upload an image of their ingredients, and the app uses **image-to-text** and **text-to-speech** technologies to provide a recipe and audio instructions. This app is ideal for individuals looking to make nutritious meals with limited ingredients and time.
@@ -102,6 +100,3 @@ To contribute to this project:
 5. Push to your branch (`git push origin feature-name`).
 6. Create a pull request to merge your changes.
 
-
-
-Let me know if you'd like to modify any part of this README or if you need additional information!
